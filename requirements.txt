@@ -1,0 +1,12 @@
+pytorch-msssim
+torch
+opencv-python
+matplotlib
+pandas
+torchvision
+torchmetrics
+numpy<1.24.0
+scikit-image
+scikit-learn
+tqdm
+h5py
